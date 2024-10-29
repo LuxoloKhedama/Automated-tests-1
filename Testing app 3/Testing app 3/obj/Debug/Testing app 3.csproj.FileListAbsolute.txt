@@ -1,0 +1,6 @@
+c:\users\lullo\documents\visual studio 2013\Projects\Testing app 3\Testing app 3\bin\Debug\Testing app 3.exe.config
+c:\users\lullo\documents\visual studio 2013\Projects\Testing app 3\Testing app 3\obj\Debug\Testing app 3.csprojResolveAssemblyReference.cache
+c:\users\lullo\documents\visual studio 2013\Projects\Testing app 3\Testing app 3\bin\Debug\Testing app 3.exe
+c:\users\lullo\documents\visual studio 2013\Projects\Testing app 3\Testing app 3\bin\Debug\Testing app 3.pdb
+c:\users\lullo\documents\visual studio 2013\Projects\Testing app 3\Testing app 3\obj\Debug\Testing app 3.exe
+c:\users\lullo\documents\visual studio 2013\Projects\Testing app 3\Testing app 3\obj\Debug\Testing app 3.pdb
